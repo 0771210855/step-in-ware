@@ -2852,9 +2852,8 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0; }
 
-
-
-  aside ul .flex-control-nav,
-  aside ol .flex-control-nav{
-    display: none;
-  }
+  
+#colorlib-hero .flex-control-nav,
+#colorlib-hero .flex-direction-nav{
+  display: none;
+}
